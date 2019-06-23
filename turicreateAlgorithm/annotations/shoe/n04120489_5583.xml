@@ -1,0 +1,37 @@
+<annotation>
+	<folder>n04120489</folder>
+	<filename>n04120489_5583</filename>
+	<source>
+		<database>ImageNet database</database>
+	</source>
+	<size>
+		<width>948</width>
+		<height>722</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>n04120489</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>61</ymin>
+			<xmax>834</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>n04120489</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>397</ymin>
+			<xmax>864</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>
